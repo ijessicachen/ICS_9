@@ -15,10 +15,5 @@
     will be more freedom
     Lines would just be straight and I could modify their length. If they 
     were wavy that'd just be too complicated for me.
-    THey should move up for the animation part
-    obviously use random for the x position, w, h, l, y for lines and just 
-    have the y go up at maybe different speeds
-    no user input for this one
-    
     
 */
